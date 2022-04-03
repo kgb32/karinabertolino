@@ -55,7 +55,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Postdoctoral researcher \n LEAL Lab \n Department of Linguistics \n University of São Paulo \n karina.bertolino@usp.br" 
+  description = "Postdoctoral researcher at Department of Linguistics, University of São Paulo" 
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
