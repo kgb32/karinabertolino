@@ -1,8 +1,8 @@
 baseURL: https://karinabertolino.netlify.app/
 languageCode: en-us
-title: Cactus theme example
+title: Karina Bertolino
 theme: hugo-theme-cactus
-copyright: You
+copyright: "&copy; 2022 Karina Bertolino"
 disqusShortname: example
 menu:
   main:
@@ -15,7 +15,7 @@ menu:
     - name: Tags
       url: /tags
       weight: 3
-    - name: Art
+    - name: Artwork
       url: /about
       weight: 4
 markup:
