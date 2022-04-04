@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://fastidious-smakager-a108f7.netlify.app
 languageCode: en-us
 title: Cactus theme example
 theme: hugo-theme-cactus
@@ -57,7 +57,7 @@ params:
   showProjectsList: yes
   showReadTime: yes
   social:
-    - link: https://github.com/gohugoio
+    - link: https://github.com/kgb32
       name: github
     - link: https://www.linkedin.com/company/github/
       name: linkedin

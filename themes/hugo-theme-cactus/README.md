@@ -1,4 +1,4 @@
-## Cactus
+blogdown::hugo_build()## Cactus
 
 A hugo theme for personal blog. Fork from hexo theme [cactus](https://github.com/probberechts/hexo-theme-cactus) created by @probberechts.
 

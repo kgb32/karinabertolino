@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cactus theme example</title>
-    <link>https://example.com/categories/</link>
+    <link>https://fastidious-smakager-a108f7.netlify.app/categories/</link>
     <description>Recent content in Categories on Cactus theme example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://fastidious-smakager-a108f7.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://example.com/categories/tech/</link>
+      <link>https://fastidious-smakager-a108f7.netlify.app/categories/tech/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/tech/</guid>
+      <guid>https://fastidious-smakager-a108f7.netlify.app/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://example.com/categories/r/</link>
+      <link>https://fastidious-smakager-a108f7.netlify.app/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/categories/r/</guid>
+      <guid>https://fastidious-smakager-a108f7.netlify.app/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>notes</title>
-      <link>https://example.com/categories/notes/</link>
+      <link>https://fastidious-smakager-a108f7.netlify.app/categories/notes/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/notes/</guid>
+      <guid>https://fastidious-smakager-a108f7.netlify.app/categories/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://example.com/categories/life/</link>
+      <link>https://fastidious-smakager-a108f7.netlify.app/categories/life/</link>
       <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
       
-      <guid>https://example.com/categories/life/</guid>
+      <guid>https://fastidious-smakager-a108f7.netlify.app/categories/life/</guid>
       <description></description>
     </item>
     
