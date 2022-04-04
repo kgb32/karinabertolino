@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on Cactus theme example</title>
-    <link>https://fastidious-smakager-a108f7.netlify.app/categories/tech/</link>
-    <description>Recent content in tech on Cactus theme example</description>
+    <title>tech on Karina Bertolino</title>
+    <link>https://karinabertolino.netlify.app/categories/tech/</link>
+    <description>Recent content in tech on Karina Bertolino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://fastidious-smakager-a108f7.netlify.app/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 Karina Bertolino</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://karinabertolino.netlify.app/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Block Test</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/posts/code-block-test/</link>
+      <link>https://karinabertolino.netlify.app/posts/code-block-test/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/posts/code-block-test/</guid>
+      <guid>https://karinabertolino.netlify.app/posts/code-block-test/</guid>
       <description>String
 Using indents:
 text text text  Fenced code block:

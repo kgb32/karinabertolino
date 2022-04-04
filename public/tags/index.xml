@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cactus theme example</title>
-    <link>https://fastidious-smakager-a108f7.netlify.app/tags/</link>
-    <description>Recent content in Tags on Cactus theme example</description>
+    <title>Tags on Karina Bertolino</title>
+    <link>https://karinabertolino.netlify.app/tags/</link>
+    <description>Recent content in Tags on Karina Bertolino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://fastidious-smakager-a108f7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2022 Karina Bertolino</copyright>
+    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://karinabertolino.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/test/</link>
+      <link>https://karinabertolino.netlify.app/tags/test/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/test/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/plot/</link>
+      <link>https://karinabertolino.netlify.app/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/plot/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/r-markdown/</link>
+      <link>https://karinabertolino.netlify.app/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/r-markdown/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/regression/</link>
+      <link>https://karinabertolino.netlify.app/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/regression/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/algorithms/</link>
+      <link>https://karinabertolino.netlify.app/tags/algorithms/</link>
       <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/algorithms/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming language</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/programming-language/</link>
+      <link>https://karinabertolino.netlify.app/tags/programming-language/</link>
       <pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/programming-language/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/programming-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>racket</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/racket/</link>
+      <link>https://karinabertolino.netlify.app/tags/racket/</link>
       <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/racket/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/racket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SML</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/sml/</link>
+      <link>https://karinabertolino.netlify.app/tags/sml/</link>
       <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/sml/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/sml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RPA</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/rpa/</link>
+      <link>https://karinabertolino.netlify.app/tags/rpa/</link>
       <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/rpa/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/rpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/javascript/</link>
+      <link>https://karinabertolino.netlify.app/tags/javascript/</link>
       <pubDate>Sun, 10 Nov 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/javascript/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vue.js</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/vue.js/</link>
+      <link>https://karinabertolino.netlify.app/tags/vue.js/</link>
       <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/vue.js/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/vue.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>php</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/php/</link>
+      <link>https://karinabertolino.netlify.app/tags/php/</link>
       <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/php/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ruby</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/ruby/</link>
+      <link>https://karinabertolino.netlify.app/tags/ruby/</link>
       <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/ruby/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/ruby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://fastidious-smakager-a108f7.netlify.app/tags/linux/</link>
+      <link>https://karinabertolino.netlify.app/tags/linux/</link>
       <pubDate>Tue, 29 Nov 2016 21:08:52 +0000</pubDate>
       
-      <guid>https://fastidious-smakager-a108f7.netlify.app/tags/linux/</guid>
+      <guid>https://karinabertolino.netlify.app/tags/linux/</guid>
       <description></description>
     </item>
     
