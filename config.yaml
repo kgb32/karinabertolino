@@ -45,7 +45,9 @@ params:
       repo: <github_username>/<github_reponame>
       theme: github-light
   dateFormat: '2006-01-02'
-  description: "<p> Postdoctoral researcher at Department of Linguistics, University of São Paulo </p> <p> Language acquisition, Syntax, Quantitative linguistics <\p> <p> Null subjects, genericity, partial null subject languages, pronoun interpretation in Broca's Aphasia, measure phrases <\p>"
+  description: Postdoctoral researcher at Department of Linguistics, University of São Paulo 
+  areas: Language acquisition, Syntax, Quantitative linguistics
+  research themes: Null subjects, genericity, partial null subject languages, pronoun interpretation in Broca's Aphasia, measure phrases <\p>"
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
