@@ -55,7 +55,9 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Postdoctoral researcher at Department of Linguistics, University of São Paulo" 
+  description = "Postdoctoral researcher at Department of Linguistics, University of São Paulo"
+  areas = "Language acquisition, Syntax, Quantitative linguistics"
+  research themes: "Null subjects, genericity, partial null subject languages, pronoun interpretation in Broca's Aphasia, measure phrases"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
